@@ -35,6 +35,7 @@
         "marionette": true
       },
       "globals": {
+        "abortOnAssertionFailure": false,
         "waitForConditionTimeout": 20000
       }
     }
